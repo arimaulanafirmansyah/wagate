@@ -9,7 +9,7 @@
     "build": "tsc && cp .env dist/"
   },
   "engines": {
-    "node": ">=20"
+    "node": "18.xx"
   },
   "author": "Awal Ariansyah",
   "license": "MIT",
